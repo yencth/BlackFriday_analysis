@@ -13,3 +13,5 @@ Data use is file train.csv.
 * train.csv: the csv file which contains the data used in the analysis process.
 * Black Friday Data analysis.ipynb: jupyter notebook. It contain python code and process of data analysis, visualization and modeling.
 * requirements.txt: The libraries need to be installed 
+
+## Summary
