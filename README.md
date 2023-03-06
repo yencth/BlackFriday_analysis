@@ -19,11 +19,13 @@ City B has the most purchases. Focus on this customer. Or we should have coupon 
 We have to care about people who are within a year in the city because they have more purchases than others.
 We should take care of singles in our next marketing campaign.
 The age group 26-35 buys the most of the age groups. Attention should be paid to this age group.
+
 * Question 2: Which product should be cared in the next campain?
  Purchase is heavily influenced by Product Category.
  The most purchased products are 5, 1, 8 in Product_Category_1, should be displayed at the front of the store to increase sales.
  There is a clear difference between the product types in Product_category_1 in price varience, so depending on the company's strategy towards which price to choose the right product.
-*　Question 3: Which products are best selling ?
+ 
+ * Question 3: Which products are best selling ?
 The first product sold 28 million with the number of 1615, the second product was 26.7 million with the number of 1612. The highest sales product also had a higher price.
 The 3rd product sold in quantity of 1383, lower than the 4th product, but the 4th product had a lower price than the 3rd product, so even though the quantity was larger, the purchase was still lower than the product 3rd
 P00265242 best selling with most age groups.
