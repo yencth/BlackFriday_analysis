@@ -32,5 +32,6 @@ Data use is file train.csv.
 * Age group 18-35, 46-55+ buy this product the most.
 * The group 0-17 years old bought the most P00255842, 36-45 bought the most P00025442.
 
+This is link of blog:https://yencth1.blogspot.com/2023/03/what-is-your-strategy-for-black-friday.html
 ## Acknowledgements
 Dataset: https://datahack.analyticsvidhya.com/contest/black-friday/
